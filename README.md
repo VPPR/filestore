@@ -11,6 +11,8 @@ https://publication-recommender.ieee.org/pubsearch
 
 Paper formatting as per AJP - https://ajp.psychiatryonline.org/ajp_ifora
 
+Consent form example - https://docs.google.com/forms/d/e/1FAIpQLSfEGDxhZwnKkA1yBfXADDsvk_laudxh5Lh_Pp0tVXJg3tnzIA/viewform
+
 
 
 METHODOLOGIES IN CLINICAL TRIALS:
